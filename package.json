@@ -19,6 +19,6 @@
   "author": "Aditya Arakeri",
   "license": "MIT",
   "dependencies": {
-    "ava": "^3.5.1"
+    "ava": "^8.0.1"
   }
 }
